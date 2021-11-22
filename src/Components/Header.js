@@ -26,7 +26,7 @@ export default function Header() {
                             Get Started for Free
                         </Button>
                     </div>
-                    <Image src='./images/illustration-mockups.svg' alt='' />
+                    <Image src='./images/illustration-mockups.svg' alt='responsive_page' />
                 </Flex>
             </Container>
         </StyledHeader>
