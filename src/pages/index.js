@@ -5,7 +5,7 @@ import Header from "../Components/Header.js";
 import Footer from "../Components/Footer.js";
 import { Container } from "../Components/styles/Container.styled";
 import GlobalStyled from "../Components/styles/Global.js";
-import content from "./content";
+import content from "../Components/content";
 
 const theme = {
   colors: {
